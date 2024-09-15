@@ -7,7 +7,6 @@
   background-color: fff;
 }
 
-/* Стиль для написів та інпутів */
 .feedback-form label {
   display: block;
   margin-bottom: 8px;
@@ -17,14 +16,13 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #2e2f42;
-  /* Вирівнювання по початку форми */
 }
 
 .feedback-form input,
 .feedback-form textarea {
   width: 360px;
   height: 32px;
-  /* Для інпуту */
+
   padding: 8px;
   margin-bottom: 16px;
   border-radius: 4px;
@@ -37,7 +35,6 @@
   resize: none;
 }
 
-/* Стиль для кнопки */
 .feedback-form button {
   border-radius: 8px;
   padding: 8px 16px;
@@ -49,9 +46,9 @@
   cursor: pointer;
   display: block;
   text-align: left;
-  /* Вирівнювання кнопки по лівому краю */
+
   margin-top: 16px;
-  /* Відступ зверху для кнопки */
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
